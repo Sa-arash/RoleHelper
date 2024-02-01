@@ -1,0 +1,19 @@
+{
+    "name": "sa-arash/rolehelper",
+    "description": "If you need to change the main text of your rolls, then this package will help you",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SaArash\\Rolehelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saman",
+            "email": "sa.arash32@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
